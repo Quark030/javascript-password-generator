@@ -11,6 +11,7 @@ An screenshot on the assets folder has the preview of the deployed website.
 
 
 The link of the deployed website is:
+https://quark030.github.io/javascript-password-generator/
 
 
 
