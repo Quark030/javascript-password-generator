@@ -68,7 +68,7 @@ function generatePassword() {
 //the charcters we have available are the concatanation of all the types of character sselected ).
 //We create a loop that holds the desired length (choosen by the user) on the second parte we use a 
 //random index to hold the result from the math floor & math random functions , wich combined choose 
-// randomly a value for each cheracter assigned.
+//randomly a value for each cheracter assigned.
 //we use the variable created before (generatedPasswordContainer) to hold the result of the iterations 
 // that will be the number of characters(lenght) that the user imput at the beginning.
 // Finally! we return the full  (generatedPasswordContainer) result to the container.
